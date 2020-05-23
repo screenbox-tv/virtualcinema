@@ -594,7 +594,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "SCREEN 1  - SHOWING NOW",
+                "tags": "SHOWING NOW",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://vimeo.com/316252282",
@@ -604,10 +604,10 @@
                 "title": "STITCHES",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "SCREEN 2 - COMING SOON",
+                "tags": "COMING SOON",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -617,7 +617,7 @@
                 "title": "GOLDIE",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           }
